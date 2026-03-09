@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./download.mp4" alt="Profile Image" width="640">
+  <img src="./download.mp4" alt="Profile Video" width="640">
 </div>
 
 #                                                  Hi, I'm Devansh Sharma! 👋
@@ -12,7 +12,7 @@
   
  
 - Socials -
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/devansh-sharma-147097242)  [![Gmail]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansharyansharma29@gmail.com)[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DevanshSha2927?t=ipWz2w79-J0slhSsLU-qg&s=09)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/devansh-sharma-147097242)[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DevanshSha2927?t=ipWz2w79-J0slhSsLU-qg&s=09)
 
      
           
