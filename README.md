@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Profile Header" width="100%">
+  <img src="./Gemini_Generated_Image_83b3ya83b3ya83b3.png" alt="Profile Image" width="400">
 </div>
 
 #                                                  Hi, I'm Devansh Sharma! 👋
