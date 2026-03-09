@@ -2,10 +2,17 @@
 - 👀 I’m interested in ... Data science & analytics
 - 🌱 I’m currently learning... CSE (Specialization in Data Science).
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me ...sharmadevansh2905@gmail.com
--                     https://www.linkedin.com/in/devansh-sharma
+- 
+- Socials -
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/devansh-sharma-147097242)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo =gmail&logoColor=white)](mailto:devansharyansharma29@gmail.com)
+- [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DevanshSha2927?t=ipWz2w79-J0slhSsLU-qg&s=09)       
+-         
 - 😄 Pronouns: ..He ,Him
-- ⚡ Fun fact: ...Sports enthusiast
+- ⚡ Fun fact: ... I am a Sports enthusiast & really cook good food!
+
+Website
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logoColor=white)](https://bank-management-sytem01-ipc6wmbzdkgd45ggpc.streamlit.app/)
 
 <!---
 Devansh2927/Devansh2927 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
