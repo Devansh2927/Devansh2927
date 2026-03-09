@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...data science n analytics
 - 🌱 I’m currently learning .cse specialization in data science.
 - 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...sharmadevansh29052gmail.com
+- 📫 How to reach me ...sharmadevansh2905@gmail.com
+-                     https://www.linkedin.com/in/devansh-sharma
 - 😄 Pronouns: ..he ,him.
 - ⚡ Fun fact: ...i love to watch cricket and love to play sports
 
