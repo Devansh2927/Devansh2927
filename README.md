@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Devansh2927
-- 👀 I’m interested in ...data science n analytics
-- 🌱 I’m currently learning .cse specialization in data science.
-- 💞️ I’m looking to collaborate on .
+- 👋 Hi, I’m Devansh Sharma
+- 👀 I’m interested in ... Data science & analytics
+- 🌱 I’m currently learning... CSE (Specialization in Data Science).
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...sharmadevansh2905@gmail.com
 -                     https://www.linkedin.com/in/devansh-sharma
-- 😄 Pronouns: ..he ,him.
-- ⚡ Fun fact: ...i love to watch cricket and love to play sports
+- 😄 Pronouns: ..He ,Him
+- ⚡ Fun fact: ...Sports enthusiast
 
 <!---
 Devansh2927/Devansh2927 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
