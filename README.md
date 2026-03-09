@@ -1,6 +1,10 @@
+
+                                               Hi , I'm Devansh Sharma
+
+About Me:
 - 👋 Hi, I’m Devansh Sharma
-- 👀 I’m interested in ... Data science & analytics
-- 🌱 I’m currently learning... CSE (Specialization in Data Science).
+- 👀 I’m Studying  ... Data science & Analytics
+- 🌱 I’m currently learning... Machine learning and Deep learning.
 - 💞️ I’m looking to collaborate.
 - 
 - Socials -
