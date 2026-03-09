@@ -1,8 +1,8 @@
 <div align="center">
   <img src="header.png" alt="Profile Header" width="100%">
 </div>
-___________________________________________________________________________________________________________________________________________________________________
-#                                                  Hi, I'm [Devansh Sharma]! 👋
+
+#                                                  Hi, I'm Devansh Sharma! 👋
                                               
 
 #About Me:
