@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="photo" alt="Profile Video" width="640">
+  <img src="logo" alt="Profile Video" width="640">
 </div>
 
 #                                                  Hi, I'm Devansh Sharma! 👋
