@@ -20,7 +20,7 @@
 
 Website
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logoColor=white)](https://bank-management-sytem01-ipc6wmbzdkgd45ggpc.streamlit.app/)
-
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logoColor=white)](https://carprediction-model-gahcaafjtxne9nduz6ifbp.streamlit.app/)
 <!---
 Devansh2927/Devansh2927 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
